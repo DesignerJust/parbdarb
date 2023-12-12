@@ -1,0 +1,17 @@
+/* External Styles */
+
+body {
+    background-color: #f8f9fa;
+    color: #343a40;
+    font-family: 'Arial', sans-serif;
+	font-size: 100;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: 7071E8;
+
+}
+
+/* Additional styles as needed */
